@@ -13,3 +13,6 @@ This is an ongoing project aimed at replicating the look and feel of Spotify’s
   JavaScript
 
 ![image alt](https://github.com/SamruddhSarode/Spotify-Project/blob/253e55ce70ccf0a7573bf21422220381e00d4c63/Screenshot.png)
+
+
+![image alt](https://github.com/SamruddhSarode/Spotify-Project/blob/8980174fcf23fce9464983d762e7a5cf112d01fc/Screenshot%20(2).png)
